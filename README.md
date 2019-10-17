@@ -17,7 +17,7 @@ to be added.
   * [Generation Codes](#generation-codes)
   * [Detection Papers](#detection-papers)
   * [Detection Codes](#detection-codes)
-  * [Datasets](#datasets)
+  * [Datasets and Challenges](#datasets-and-challenges)
   * [General Online Articles of Deepfake Videos](#general-online-articles-of-deepfake-videos)
 * [Deepfake Texts](#deepfake-texts)
   * [Papers Mainly on Detection](#papers-mainly-on-detection)
