@@ -49,18 +49,27 @@ to be added.
 
 ### Detection Papers
 
-* [Towards Generalizable Forgery Detection with Locality-aware AutoEncoder](https://arxiv.org/abs/1909.05999)
-* [ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection](https://arxiv.org/abs/1812.02510)
-* [FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/abs/1901.08971)
-* [Deep Learning for Deepfakes Creation and Detection](https://arxiv.org/abs/1909.11573)
-* [On the generalization of GAN image forensics](https://arxiv.org/abs/1902.11153)
-* [Protecting World Leaders Against Deep Fakes](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)
-* [Fake Face Detection Methods: Can They Be Generalized?](https://ieeexplore.ieee.org/document/8553251)
-* [Exposing DeepFake Videos By Detecting Face Warping Artifacts](https://arxiv.org/abs/1811.00656)
-* [Exposing Deep Fakes Using Inconsistent Head Poses](https://arxiv.org/abs/1811.00661)
-* [In Ictu Oculi: Exposing AI Generated Fake Face Videos by Detecting Eye Blinking](https://arxiv.org/abs/1806.02877)
-* [Exploiting Visual Artifacts to Expose Deepfakes and Face Manipulations](https://ieeexplore.ieee.org/document/8638330)
-* [Capsule-Forensics: Using Capsule Networks to Detect Forged Images and Videos](https://arxiv.org/abs/1810.11215)
+* Review and General Papers
+  * [Deep Learning for Deepfakes Creation and Detection](https://arxiv.org/abs/1909.11573)
+
+
+* Relying on Artifacts
+  * [Exposing DeepFake Videos By Detecting Face Warping Artifacts](https://arxiv.org/abs/1811.00656)
+  * [Exposing Deep Fakes Using Inconsistent Head Poses](https://arxiv.org/abs/1811.00661)
+  * [In Ictu Oculi: Exposing AI Generated Fake Face Videos by Detecting Eye Blinking](https://arxiv.org/abs/1806.02877)
+  * [Exploiting Visual Artifacts to Expose Deepfakes and Face Manipulations](https://ieeexplore.ieee.org/document/8638330)
+  * [Protecting World Leaders Against Deep Fakes](http://openaccess.thecvf.com/content_CVPRW_2019/papers/Media%20Forensics/Agarwal_Protecting_World_Leaders_Against_Deep_Fakes_CVPRW_2019_paper.pdf)
+
+* Binary Classifiers
+  * [Capsule-Forensics: Using Capsule Networks to Detect Forged Images and Videos](https://arxiv.org/abs/1810.11215)
+  * [FaceForensics++: Learning to Detect Manipulated Facial Images](https://arxiv.org/abs/1901.08971)
+
+* Generalization performance
+  * [Towards Generalizable Forgery Detection with Locality-aware AutoEncoder](https://arxiv.org/abs/1909.05999)
+  * [ForensicTransfer: Weakly-supervised Domain Adaptation for Forgery Detection](https://arxiv.org/abs/1812.02510)
+  * [On the generalization of GAN image forensics](https://arxiv.org/abs/1902.11153)
+  * [Fake Face Detection Methods: Can They Be Generalized?](https://ieeexplore.ieee.org/document/8553251)
+
 
 ### Detection Codes
 * [Deepfake detection for the masses](https://github.com/Baukebrenninkmeijer/FakeFynder-Hackathon-for-Good-2019)
