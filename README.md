@@ -55,7 +55,7 @@ An alternative is white-box detection, in this scenario, the detector has full a
   * [Automatic Detection of Machine Generated Texts: Need More Tokens](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9983964&tag=1)
   * [CoCo: Coherence-Enhanced Machine-Generated Text Detection Under Data Limitation With Contrastive Learning](https://arxiv.org/pdf/2212.10341.pdf)
   * [Feature-based detection of automated language models: tackling GPT-2, GPT-3 and Grover](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8049133/)
-  * [Release strategies and the social impacts of language models](Release Strategies and the Social Impacts of Language Models)
+  * [Release strategies and the social impacts of language models](https://arxiv.org/pdf/1908.09203.pdf)
   * [Adversarial Robustness of Neural-Statistical Features in Detection of Generative Transformer](https://arxiv.org/abs/2203.07983)
   
 
