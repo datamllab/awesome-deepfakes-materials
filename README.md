@@ -17,12 +17,12 @@ An alternative is white-box detection, in this scenario, the detector has full a
 * [Review Paper](#Review Paper)
 
 * [Black-Box Detection](#Black-Box Detection)
-  * 
-  * 
-  *
+  * Data Collection
+  * Detection Feature Selectio
+  * Classification Mode
 * [White-Box Detection](#White-Box Detection)
-  *
-  *
+  * Post-hoc Watermarking
+  * Inference Time Watermark
   
 
 ## Review Paper 
