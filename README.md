@@ -1,8 +1,8 @@
-# Awesome-Deepfakes-Materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome-LLM-Generated-Text-Detection-Materials [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated, but probably biased and incomplete, list of awesome Deepfakes resources.
+A curated, but probably biased and incomplete, list of LLM-generated text detection resources.
 
-If you want to contribute to this list, feel free to pull a request. Also you can contact [Mengnan Du](http://people.tamu.edu/~dumengnan/) from the [Data Lab](http://faculty.cs.tamu.edu/xiahu/) at Texas A&M University through email: dumengnan@tamu.edu, or Twitter [@DuMNCH](https://twitter.com/DuMNCH).
+If you want to contribute to this list, feel free to pull a request. Also you can contact [Ruixiang Tang](http://people.tamu.edu/~dumengnan/) from the [Data Lab](http://faculty.cs.tamu.edu/xiahu/) at Texas A&M University through email: dumengnan@tamu.edu, or Twitter [@DuMNCH](https://twitter.com/DuMNCH).
 
 
 ## What is Deepfakes?
